@@ -234,54 +234,6 @@ Relay       : ON
 Buzzer      : OFF
 ```
 
----
-
-## Project Images
-
-### Hardware Prototype
-
-Add your hardware images inside the `images` folder.
-
-```text
-images/
-├── hardware_setup.jpg
-├── prototype.jpg
-```
-
-Then include:
-
-```markdown
-## Hardware Setup
-
-![Hardware Setup](images/hardware_setup.jpg)
-
-## Final Prototype
-
-![Final Prototype](images/prototype.jpg)
-```
-
----
-
-## Project Folder Structure
-
-```text
-SEN54-Air-Quality-Monitor/
-│
-├── README.md
-├── src/
-│   └── sen54_air_quality_monitor.ino
-│
-├── images/
-│   ├── hardware_setup.jpg
-│   └── prototype.jpg
-│
-├── docs/
-│   └── circuit_diagram.pdf
-│
-└── libraries_used.txt
-```
-
----
 
 ## Future Improvements
 
@@ -306,11 +258,3 @@ SEN54-Air-Quality-Monitor/
 * IoT Research and Development
 
 ---
-
-## Author
-
-**Om Manekar**
-
-Electronics and Communication Engineering
-
-Embedded Systems | IoT | ESP32 | STM32
